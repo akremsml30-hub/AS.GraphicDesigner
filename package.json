@@ -1,0 +1,22 @@
+{
+  "name": "as-graphic-designer",
+  "version": "1.0.0",
+  "description": "Portfolio of AS.GraphicDesigner: food ads, brand campaigns and posters",
+  "scripts": {
+    "start": "npx http-server -p 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akremsml30-hub/AS.GraphicDesigner.git"
+  },
+  "keywords": ["portfolio", "graphic-design"],
+  "author": "AS.GraphicDesigner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akremsml30-hub/AS.GraphicDesigner/issues"
+  },
+  "homepage": "https://github.com/akremsml30-hub/AS.GraphicDesigner#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.1.0"
+  }
+}
